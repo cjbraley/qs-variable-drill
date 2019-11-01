@@ -13,7 +13,6 @@ import {
 
 window.define(['qlik', 'jquery'], async function(qlik, $) {
 
-	
 	// UTILS
 	const getVariableList = () => {
 		return qlik.currApp().createGenericObject({

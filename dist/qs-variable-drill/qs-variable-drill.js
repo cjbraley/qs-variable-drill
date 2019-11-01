@@ -234,7 +234,7 @@ eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("module.exports = \"<div class=\\\"chart-container\\\">\\n    <div class=\\\"qsvd__buttons\\\">\\n        <button class=\\\"qsvd__btn qsvd__btn__previous\\\">\\n            <i class=\\\"fas fa-minus\\\"></i>\\n        </button>\\n        <button class=\\\"qsvd__btn qsvd__btn__next\\\">\\n            <i class=\\\"fas fa-plus\\\"></i>\\n        </button>\\n    </div>\\n    <div class=\\\"qsvd__errorMessage\\\" >\\n        <p>This is the error message</p>\\n    </div>\\n</div>\\n\";\n\n//# sourceURL=webpack:///./src/methods/template.html?");
+eval("module.exports = \"<div class=\\\"chart-container\\\">\\n    <div class=\\\"qsvd__buttons\\\">\\n        <button class=\\\"qsvd__btn qsvd__btn__previous\\\">\\n            <i class=\\\"fas fa-minus\\\"></i>\\n        </button>\\n        <button class=\\\"qsvd__btn qsvd__btn__next\\\">\\n            <i class=\\\"fas fa-plus\\\"></i>\\n        </button>\\n    </div>\\n    <div class=\\\"qsvd__errorMessage\\\" >\\n        <p></p>\\n    </div>\\n</div>\\n\";\n\n//# sourceURL=webpack:///./src/methods/template.html?");
 
 /***/ }),
 
